@@ -1,0 +1,4 @@
+[09-Sep-2016 03:48:05] PHP Warning:  set_time_limit() [<a href='function.set-time-limit'>function.set-time-limit</a>]: Cannot set time limit in safe mode in /home/informac/public_html/noticias/controles/pdf/pdf-php-0.12.21/examples/annotations.php on line 3
+[09-Sep-2016 03:48:05] PHP Parse error:  syntax error, unexpected '[' in /home/informac/public_html/noticias/controles/pdf/pdf-php-0.12.21/src/Cezpdf.php on line 72
+[09-Sep-2016 03:48:15] PHP Warning:  set_time_limit() [<a href='function.set-time-limit'>function.set-time-limit</a>]: Cannot set time limit in safe mode in /home/informac/public_html/noticias/controles/pdf/pdf-php-0.12.21/examples/annotations.php on line 3
+[09-Sep-2016 03:48:15] PHP Parse error:  syntax error, unexpected '[' in /home/informac/public_html/noticias/controles/pdf/pdf-php-0.12.21/src/Cezpdf.php on line 72
